@@ -27,10 +27,9 @@ body {
     transform: translate(-50%, -50%); }
 
 .about-us {
+  height: 90vh;
   display: flex;
-  align-items: center;
-  padding-top: 2rem;
-  padding-bottom: 2rem; }
+  align-items: center; }
   .about-us-left {
     width: 40%;
     position: relative;

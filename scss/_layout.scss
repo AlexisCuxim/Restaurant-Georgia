@@ -19,10 +19,9 @@
 }
 
 .about-us {
+    height: 90vh;
     display: flex;
     align-items: center;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
 
     &-left {
         width: 40%;
